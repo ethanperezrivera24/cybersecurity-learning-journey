@@ -14,11 +14,16 @@ Phase 0 — Foundation Setup (Setting up VMs, key accounts such as Github, start
 
 ## General Progress Log
 
+### 2026-05-20
+- Started OverTheWire: Bandit — completed Levels 0 → 4
+- Updated learning log via push from VS Code
+- Learned: SSH remote login, navigating dashed/spaced/hidden filenames in Linux CLI
+
 ### 2026-05-19
 - Set up Ubuntu VM in VirtualBox
 - Configured dynamic display scaling and bidirectional clipboard
 - Took baseline snapshot ("Fresh Install") for safe restore point
-- Set up learning journal
+- Set up learning journal as README.md file
 - Learned: what a hypervisor is; snapshots let you break things safely similar to git version control; how to install ISO files and configure Ubuntu; how to configure a virtual machine
 
 ## OverTheWire: Bandit
