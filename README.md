@@ -6,7 +6,7 @@ I'm a CS sophomore at UCF working towards a career in cybersecurity. I'm current
 ## Logs
 - [OverTheWire: Bandit](./bandit.md) — Linux/CLI fundamentals wargame
   **Status:** Levels 0–15 complete
-- [TryHackMe](./thm_ps.md) — Guided cyber security, networking, and web fundamentals
+- [TryHackMe](./thm.md) — Guided cyber security, networking, and web fundamentals
   **Status:** Module 2 (Introduction to Cyber Security) in progress
 
 ## Tools & Environment
